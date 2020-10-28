@@ -4,7 +4,7 @@
 ## I'm a Software Developer & Dropshipping Expert!!
 
 
-- 🔭 I have contributed to more than 10 repositories here!
+- 🔭 I have contributed to more than 15 repositories here!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Software Developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
