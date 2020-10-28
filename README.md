@@ -11,6 +11,11 @@
 - 🥅 Future Goals: Contribute to Machine learning, Deep learning, NLP. 
 - ⚡ Fun fact: I love to drive and travel.
 
+![malik's github stats](https://github-readme-stats.vercel.app/api?username=Malik-Naeem-Awan&show_icons=true&theme=dark)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malik-Naeem-Awan&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
