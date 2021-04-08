@@ -7,7 +7,7 @@
 - 🔭 I have contributed to more than 15 repositories here!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Software Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🥅 Future Goals: Contribute to Machine learning, Deep learning, NLP. 
 - ⚡ Fun fact: I love to drive and travel.
 
