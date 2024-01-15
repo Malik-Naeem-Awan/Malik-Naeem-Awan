@@ -6,10 +6,10 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 🔭 I have contributed to more than 15 repositories here!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently open to learning any Tech stack.
 - 👯 I’m looking to collaborate with other Software Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 🥅 Future Goals: Contribute to Machine learning, Deep learning, NLP. 
+- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 🥅 Future Goals: Contribute to Test automation for AI and modern technologies related projects in any domain. 
 - ⚡ Fun fact: I love to drive and travel.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engrmafzaalch&color=0e75b6&style=flat-square&label=PROFILE+VIEWS" alt="engrmafzaalch" /> </p>
